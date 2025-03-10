@@ -1,4 +1,4 @@
-# subtitle_maker
+# Auto Subtitles Generator
 
 ## Overview
 
