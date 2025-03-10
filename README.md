@@ -2,11 +2,11 @@
 
 ## Overview
 
-subtitle_maker is a Node.js tool that automatically generates single-word subtitles for videos. It solves the tedious problem of manually splitting words in video editing software like Premiere Pro or CapCut, allowing users to create stylish word-by-word captions with just a single command.
+subtitle_maker is a Node.js script that automatically generates single-word subtitles for videos. It solves the tedious problem of manually splitting words in video editing software like Premiere Pro or CapCut, allowing users to create stylish word-by-word captions with just a single command.
 
 ## Demo
 
-[Add your demo video here]
+https://github.com/user-attachments/assets/415bd6ed-b0c9-4f3c-8fca-4294c33505d6
 
 ## Features
 
