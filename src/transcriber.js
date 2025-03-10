@@ -13,8 +13,6 @@ async function transcribeAudio(audioPath) {
         {
             model: 'nova-3',
             smart_format: true,
-            utterances: false,
-            word_timestamps: true
         }
     );
 

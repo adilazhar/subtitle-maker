@@ -14,6 +14,7 @@ ffmpeg.setFfprobePath("C:/ffmpeg/bin/ffprobe.exe");
 async function processVideo(videoPath) {
     try {
         // Check if video file exists
+
         if (!fs.existsSync(videoPath)) {
             throw new Error(`Video file not found: ${videoPath}`);
         }
